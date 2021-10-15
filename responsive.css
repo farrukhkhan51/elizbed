@@ -1,0 +1,424 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575px) 
+{ 
+	@media(min-width: 310px)
+ 	{
+ 		/*home page start*/
+
+ 		.header .navbar-expand-lg .navbar-nav .dropdown-menu
+ 		{
+ 			width: auto;
+ 		}
+ 		.slider .carousel-caption
+ 		{
+ 			top: -10%;
+ 		}
+ 		.working_home .view_all
+ 		{
+ 			text-align: left;
+ 		}
+ 		.trend .shipping
+		{
+			margin-bottom: 13px;
+		}
+		.trend .payment
+		{
+			margin-bottom: 13px;
+		}
+		.trend .money
+		{
+			margin-bottom: 13px;
+		}
+		.arrival .arrival1button
+		{
+			margin-bottom: 10px;
+		}
+		.arrival .arrival2button
+		{
+			margin-bottom: 10px;
+		}
+		.furniture .view_all
+		{
+			text-align: left;
+		}
+		.other_image .image1 figcaption
+		{
+			top: 36px;
+		}
+		.other_image .image2 figcaption
+		{
+			top: 207px;
+		}
+		.other_image .image2 h3
+		{
+			font-size: 20px;
+		}
+		.other_image .image3 figcaption
+		{
+			top: 197px;
+		}
+		.other_image .image3 h3
+		{
+			font-size: 20px;
+		}
+		.other_image .image4 figcaption
+		{
+			top: 43px;
+		}
+		.other_image .image4 h3
+		{
+			font-size: 20px;
+		}
+		.other_image .image5 figcaption
+		{
+			top: 212px;
+		}
+		.other_image .image5 h3
+		{
+			font-size: 20px;
+		}
+		.proud_section .image1
+		{
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		.proud_section .image2
+		{
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		.proud_section .image3
+		{
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		.proud_section .image4
+		{
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		.proud_section .image5
+		{
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		.proud_section .image6
+		{
+			margin-bottom: 10px;
+			text-align: center;
+		}
+		.top_header .subscribe_button
+		{
+			text-align: left;
+		}
+		.slider .carousle-caption h3
+		{
+			font-size: 20px;
+		}
+		.category_shop .column
+		{
+			width: 100%;
+		}
+		.mattress .view_text
+		{
+			text-align: left;
+		}
+		.trend
+		{
+			margin-bottom: 0px;
+		}
+		.other_image .image1 h3 
+		{
+			font-size: 20px;
+		}
+ 		/*home page end*/
+
+ 		/*cart_detail1 page start*/
+
+ 		.cart_section .check_button span 
+ 		{
+		    margin-left: 110px;
+		}
+
+ 		/*cart_detail1 page end*/
+
+ 		/*billing information page start*/
+
+ 		.billing_section .check_button span 
+ 		{
+		    margin-left: 101px;
+		}
+
+ 		/*billing information page end*/
+
+ 		/*payment page start*/
+
+ 		.payment_section .check_button span 
+ 		{
+		    margin-left: 144px;
+		}
+
+ 		/*payment page end*/
+
+ 		/*product_detail page start*/
+
+ 		.card_image img
+ 		{
+ 			width: 90%;
+ 		}
+ 		.crumb_section .breadcrumb li
+ 		{
+ 			font-size: 14px;
+ 		}
+ 		/*product detail page end*/
+ 	}
+}
+
+/*Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) 
+{
+	/*hoem page start*/
+
+	.header .navbar-expand-lg .navbar-nav .dropdown-menu
+	{
+		width: 490px;
+	}
+	.slider .carousel-caption 
+	{
+	    text-align: left;
+	    left: 10%;
+	    top: 0%;
+	}
+	.trend .shipping
+	{
+		margin-bottom: 13px;
+	}
+	.trend .payment
+	{
+		margin-bottom: 13px;
+	}
+	.trend .money
+	{
+		margin-bottom: 13px;
+	}
+	.arrival .arrival1button
+	{
+		margin-bottom: 10px;
+	}
+	.arrival .arrival2button
+	{
+		margin-bottom: 10px;
+	}
+	.furniture .text h3 
+	{
+	    font-size: 18px;
+	}
+	.other_image .image1 figcaption
+	{
+		top: 167px;
+	}
+	.other_image .image2 figcaption
+	{
+		top: 464px;
+	}
+	.other_image .image3 figcaption
+	{
+		top: 484px;
+	}
+	.other_image .image4 figcaption
+	{
+		top: 175px;
+	}
+	.other_image .image5 figcaption
+	{
+		top: 482px;
+	}
+	.proud_section .image1
+	{
+		margin-bottom: 10px;
+	}
+	.proud_section .image2
+	{
+		margin-bottom: 10px;
+	}
+	.proud_section .image3
+	{
+		margin-bottom: 10px;
+	}
+	/*home page end*/
+
+	/*cart_detail1 page start*/
+
+	.cart_section .check_button span 
+	{
+	    margin-left: 319px;
+	}
+
+	/*cart_detail1 page end*/
+
+	/*billing information page start*/
+
+	.billing_section .check_button span 
+	{
+	    margin-left: 307px;
+	}
+
+	/*billing information page end*/
+
+	/*payment page start*/
+
+	.payment_section .check_button span 
+	{
+	    margin-left: 366px;
+	}
+
+	/*payment page end*/
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) 
+{
+	/*home page start*/
+
+	.header .navbar-expand-lg .navbar-nav .dropdown-menu
+	{
+		width: 750px;
+	}
+	.popular .popular_image2 .button 
+	{
+	    margin-top: 40px;
+	}
+	.working_home .home1
+	{
+		text-align: center;
+	}
+	.trend .money
+	{
+		margin-top: 117px;
+	}
+	.trend .shipping
+	{
+		margin-top: 117px;
+	}
+	.trend .payment
+	{
+		margin-top: 117px;
+	}
+	.arrival .arrival1button
+	{
+		margin-bottom: 10px;
+	}
+	.arrival .arrival2button
+	{
+		margin-bottom: 10px;
+	}
+	.furniture .home1 
+	{
+		text-align: center;
+	}
+	.furniture .home6
+	{
+		text-align: center;
+	}
+	.furniture .home7
+	{
+		text-align: center;
+	}
+	.other_image .image2 figcaption
+	{
+		margin-top: 430px;
+	}
+	.other_image .image1 figcaption
+	{
+		top: 255px;
+	}
+	.other_image .image3 figcaption
+	{
+		top: 700px;
+	}
+	.other_image .image5 figcaption
+	{
+		top: 668px;
+	}
+	.other_image .image4 figcaption
+	{
+		top: 276px;
+	}
+	.proud_section .image1
+	{
+		margin-bottom: 10px;
+	}
+	.proud_section .image2
+	{
+		margin-bottom: 10px;
+	}
+	.proud_section .image3
+	{
+		margin-bottom: 10px;
+	}
+	/*home page end*/
+
+	/*cart_detail1 page start*/
+
+	.cart_section .check_button span 
+	{
+	    margin-left: 504px;
+	}
+
+	/*cart_detail1 page end*/
+
+	/*billing information page start*/
+
+	.billing_section .check_button span 
+	{
+	    margin-left: 497px;
+	}
+
+	/*billing information page end*/
+
+	/*payment page start*/
+
+	.payment_section .check_button span 
+	{
+	    margin-left: 531px;
+	}
+
+	/*payment page end*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199px) 
+{ 
+	/*home page start*/
+
+	.popular .popular_image2 .button 
+	{
+	    text-align: right;
+	    margin-top: 38px;
+	}
+	.cart_section .check_button span 
+	{
+	    margin-left: 182px;
+	}
+
+	/*home page end*/
+
+	/*billling information page start*/
+
+	.billing_section .check_button span 
+	{
+	    margin-left: 176px;
+	}
+
+	/*billing_information page end*/
+
+	/*payment page start*/
+
+	.payment_section .check_button span 
+	{
+	    margin-left: 235px;
+	}
+
+	/*payment page end*/
+}
